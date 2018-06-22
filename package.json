@@ -1,0 +1,22 @@
+{
+  "name": "lfclass2018",
+  "version": "0.0.1",
+  "description": "This is a new version for Languiji official website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfclass2018/lfclass2018.git"
+  },
+  "keywords": [
+    "lfclass"
+  ],
+  "author": "https://github.com/lfclass2018",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lfclass2018/lfclass2018/issues"
+  },
+  "homepage": "https://github.com/lfclass2018/lfclass2018#readme"
+}
